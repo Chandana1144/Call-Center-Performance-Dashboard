@@ -110,7 +110,7 @@ Users can filter dashboard views using slicers for deeper analysis.
 ![Customer Analysis](customer-analysis.png)
 
 ### Interactive Filter 
-![interactive filter demo]()
+![interactive filter demo](interactive-filter-demo.png.png)
 
 ### Monthly Trends
 ![Monthly Trends]()
