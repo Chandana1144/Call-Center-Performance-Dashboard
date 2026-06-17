@@ -70,8 +70,20 @@ The dashboard provides insights into:
 
 ---
 
-## Author
-
 Sara Chandana Priya
 
 Business Analyst | Excel | SQL | Power BI
+
+## Dashboard Preview
+
+### Main Dashboard
+![Dashboard](screenshots/dashboard-overview.png)
+
+### Customer Analysis
+![Customer Analysis](screenshots/customer-analysis.png)
+
+### Interactive Filter 
+![interactive filter demo](screenshots/interactive-filter-demo.png)
+
+### Monthly Trends
+![Monthly Trends](screenshots/monthly-trends.png)
