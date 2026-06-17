@@ -107,7 +107,7 @@ Users can filter dashboard views using slicers for deeper analysis.
 ![Dashboard](dashborad-cc-overview.png.png)
 
 ### Customer Analysis
-![Customer Analysis]()
+![Customer Analysis](customer-analysis.png)
 
 ### Interactive Filter 
 ![interactive filter demo]()
