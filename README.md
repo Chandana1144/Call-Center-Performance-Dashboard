@@ -104,7 +104,7 @@ Users can filter dashboard views using slicers for deeper analysis.
 ## Dashboard Screenshots
 
 ### Main Dashboard
-![Dashboard](screenshots/dashboard-overview.png)
+![Dashboard](dashborad-cc-overview.png.png)
 
 ### Customer Analysis
 ![Customer Analysis](screenshots/customer-analysis.png)
