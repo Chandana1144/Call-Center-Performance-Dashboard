@@ -1,4 +1,3 @@
-<img width="358" height="415" alt="image" src="https://github.com/user-attachments/assets/32421280-0b4f-4a7e-9e9b-cdb68eff4854" /># Call-Center-Performance-Dashboard
 Interactive Excel Dashboard for Customer Service Performance Analysis
 # 📊 Call Center Performance Dashboard
 
