@@ -1,80 +1,107 @@
-Interactive Excel Dashboard for Customer Service Performance Analysis
-# 📊 Call Center Performance Dashboard
+# 📞 Call Center Performance Dashboard
 
 ## Project Overview
 
-This project is an Excel-based dashboard developed to analyze call center operations and customer service performance.
+This project presents an interactive Call Center Performance Dashboard developed in Microsoft Excel to analyze customer service operations and support data-driven decision making.
 
-The dashboard provides insights into:
+The dashboard provides visibility into key operational metrics such as customer satisfaction, call volume, purchase amount, call duration, and representative performance.
 
-- Customer Satisfaction
-- Call Volume
-- Purchase Amount
-- Representative Performance
+The objective was to transform raw call center data into meaningful business insights through data cleaning, aggregation, visualization, and KPI reporting.
+
+---
+
+## Business Problem
+
+Call centers generate large volumes of customer interaction data, making it difficult for management to monitor performance and identify improvement opportunities.
+
+This dashboard was created to:
+
+- Monitor customer service performance
+- Track customer satisfaction levels
+- Identify high-value customers
+- Analyze call trends over time
+- Support operational decision-making
+
+---
+
+## Dataset Information
+
+The dataset contains customer service interaction records including:
+
+- Customer Name
+- Representative Name
 - Call Duration
+- Satisfaction Rating
+- Purchase Amount
+- Date of Interaction
+
+The data was cleaned, structured, and analyzed using Microsoft Excel.
+
+---
+
+## Tools & Techniques Used
+
+### Microsoft Excel
+
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- KPI Reporting
+- Data Cleaning
+- Dashboard Design
+
+---
+
+## Key Performance Indicators (KPIs)
+
+The dashboard tracks:
+
+- Total Calls
+- Total Purchase Amount
+- Average Satisfaction Rating
+- Average Call Duration
+- Top Customers
+- Representative Performance
 - Monthly Trends
 
 ---
 
-## Tools Used
+## Dashboard Features
 
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Data Cleaning
-- Dashboard Design
-- KPI Reporting
+### Executive Dashboard
+
+Provides a high-level overview of business performance through KPI cards and visual reports.
+
+### Customer Analysis
+
+Analyzes customer purchasing behavior and satisfaction ratings.
+
+### Representative Performance Analysis
+
+Evaluates employee productivity and service quality.
+
+### Monthly Trend Analysis
+
+Tracks call activity and performance metrics over time.
+
+### Interactive Filtering
+
+Users can filter dashboard views using slicers for deeper analysis.
 
 ---
 
-## Key Metrics
-
-- Total Calls
-- Average Satisfaction Rating
-- Total Purchase Amount
-- Average Call Duration
-- Top Customers
-- Representative Performance
-
----
-
-## Business Insights
+## Key Business Insights
 
 - Identified top-performing customer service representatives.
-- Analyzed customer satisfaction trends.
-- Tracked purchase amount generated through customer interactions.
-- Evaluated call duration patterns.
-- Monitored monthly call center performance.
+- Highlighted customers generating the highest purchase value.
+- Monitored satisfaction trends across customer interactions.
+- Evaluated call duration patterns and operational efficiency.
+- Analyzed monthly performance fluctuations.
 
 ---
 
 ## Dashboard Screenshots
-
-### Main Dashboard
-
-(Add screenshot here)
-
-### Customer Analysis
-
-(Add screenshot here)
-
-### Representative Analysis
-
-(Add screenshot here)
-
----
-
-## Project File
-
-- Call Center Report 2023.xlsx
-
----
-
-Sara Chandana Priya
-
-Business Analyst | Excel | SQL | Power BI
-
-## Dashboard Preview
 
 ### Main Dashboard
 ![Dashboard](screenshots/dashboard-overview.png)
@@ -87,3 +114,32 @@ Business Analyst | Excel | SQL | Power BI
 
 ### Monthly Trends
 ![Monthly Trends](screenshots/monthly-trends.png)
+
+---
+
+## Project Files
+
+- Call Center Report 2023.xlsx
+
+---
+
+## Skills Demonstrated
+
+- Business Analysis
+- Data Analysis
+- Dashboard Development
+- KPI Reporting
+- Data Visualization
+- Excel Analytics
+- Performance Monitoring
+- Decision Support Reporting
+
+---
+
+## Author
+
+### Sara Chandana Priya
+
+Business Analyst | SQL | Power BI | Excel | Data Analytics
+
+LinkedIn: https://linkedin.com/in/chandanapriya141
